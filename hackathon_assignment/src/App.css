@@ -14,3 +14,33 @@ align-items: flex-start;
 .addvehiclebtn{
   padding: 15px;
 }
+
+.App {
+  text-align: center;
+}
+.main-container{
+  padding: 3rem;
+}
+.drawer-title{
+  font-family: 'Noto Sans' !important ;
+font-style: normal !important;
+font-weight: 600 !important;
+font-size: 24px !important;
+line-height: 32px !important;
+letter-spacing: -0.5px !important;
+color: #252627 !important;
+}
+.drawer-p{
+  font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+letter-spacing: -0.25px;
+
+color: #E62E2E;
+
+opacity: 0.87;
+}
